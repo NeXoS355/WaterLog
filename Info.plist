@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSServices</key>
+	<array>
+		<dict/>
+		<dict/>
+	</array>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Diese App kann deine Trinkmengen in die Health-App schreiben.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Diese App kann deine Trinkmengen in die Health-App schreiben.</string>
+</dict>
+</plist>
